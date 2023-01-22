@@ -4,11 +4,11 @@
 
 ### Description
 Just-Post-It is a short note-taking web application that allows you to write posts(i.e. short notes) fast and easy.
-![Input][1](/imgs/Demo-1.png?raw=true "Input")
+![Alt][1]
 Posts you write will be pinned to the wall so you can see them on the screen.
-![Post-It][2](/imgs/Demo-2.png?raw=true ""Post it"")
+![Alt][2]
 V1.0 version support up to 6 posts for each user
-![Maximum posts reached][3](/imgs/Demo-3.png?raw=true "Maximum posts")
+![Alt][3]
 
 ### How Just-Post-It is created
 Just-Post-It consists of several parts:
@@ -68,3 +68,6 @@ Without it, it would be much harder to create this project.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+[1]: /imgs/Demo_1.png "Input"
+[2]: /imgs/Demo_2.png "Post it"
+[3]: /imgs/Demo_3.png "Maximum posts"
