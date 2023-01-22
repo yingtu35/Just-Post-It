@@ -60,7 +60,7 @@ python manage.py runserver
 ```
 
 ## Credits
-Thanks `Tech with Tim` for the [Django & React Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)
+Thanks `Tech with Tim` for the [Django & React Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j) \
 I learned the django framework structure and React after following this tutorial.\
 Without it, it would be much harder to create this project.
 
