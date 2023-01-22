@@ -4,11 +4,11 @@
 
 ### Description
 Just-Post-It is a short note-taking web application that allows you to write posts(i.e. short notes) fast and easy.
-![Alt][1]
+![Alt][1]\
 Posts you write will be pinned to the wall so you can see them on the screen.
-![Alt][2]
+![Alt][2]\
 V1.0 version support up to 6 posts for each user
-![Alt][3]
+![Alt][3]\
 
 ### How Just-Post-It is created
 Just-Post-It consists of several parts:
@@ -61,7 +61,7 @@ python manage.py runserver
 
 ## Credits
 Thanks `Tech with Tim` for the [Django & React Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)
-I learned the django framework structure and React after following this tutorial.
+I learned the django framework structure and React after following this tutorial.\
 Without it, it would be much harder to create this project.
 
 ## License
