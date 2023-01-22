@@ -4,7 +4,11 @@
 
 ### Description
 Just-Post-It is a short note-taking web application that allows you to write posts(i.e. short notes) fast and easy.
+![Alt][1]
 Posts you write will be pinned to the wall so you can see them on the screen.
+![Alt][2]
+V1.0 version support up to 6 posts for each user
+![Alt][3]
 
 ### How Just-Post-It is created
 Just-Post-It consists of several parts:
@@ -20,9 +24,6 @@ Just-Post-It consists of several parts:
 		- Bundle JavaScript, CSS, and other files into one to improve load times and reduce the number of requests to the server.
 	4. babel
 		- Transpile modern JavaScript to an older version of JavaScript for older browsers that may not support newer JavaScript
-	
-All backend source code can be found in the /api folder.
-All backend source code can be found in the /frontend folder.
 
 ## How to Install and Run Just-Post-It
 
@@ -67,3 +68,6 @@ Without it, it would be much harder to create this project.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+[1]: /imgs/Demo_1.png "Input"
+[2]: /imgs/Demo_2.png "Post it"
+[3]: /imgs/Demo_3.png "Maximum posts"
