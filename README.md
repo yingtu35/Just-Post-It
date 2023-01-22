@@ -15,7 +15,7 @@ Just-Post-It consists of several parts:
 1. Backend framework written in Python and the django framework
 	- Use SQLite databases to store all posts from the user
 	- Provide a REST API for the fronetend to communicate
-	- Handle basic CRU
+	- Handle basic CRUD operations
 2. Frontend written in JavaScript with React and MUI
 	- Render the Just-Post-It webpage
 	- Interact with user inputs such as text input and mouseclick
