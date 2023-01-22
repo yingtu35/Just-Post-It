@@ -12,18 +12,18 @@ V1.0 version support up to 6 posts for each user
 
 ### How Just-Post-It is created
 Just-Post-It consists of several parts:
-	1. Backend framework written in Python and the django framework
-		- Use SQLite databases to store all posts from the user
-		- Provide a REST API for the fronetend to communicate
-		- Handle basic CRU
-	2. Frontend written in JavaScript with React and MUI
-		- Render the Just-Post-It webpage
-		- Interact with user inputs such as text input and mouseclick
-		- Fetch requests to the backend on user's events
-	3. webpack
-		- Bundle JavaScript, CSS, and other files into one to improve load times and reduce the number of requests to the server.
-	4. babel
-		- Transpile modern JavaScript to an older version of JavaScript for older browsers that may not support newer JavaScript
+1. Backend framework written in Python and the django framework
+	- Use SQLite databases to store all posts from the user
+	- Provide a REST API for the fronetend to communicate
+	- Handle basic CRU
+2. Frontend written in JavaScript with React and MUI
+	- Render the Just-Post-It webpage
+	- Interact with user inputs such as text input and mouseclick
+	- Fetch requests to the backend on user's events
+3. webpack
+	- Bundle JavaScript, CSS, and other files into one to improve load times and reduce the number of requests to the server.
+4. babel
+	- Transpile modern JavaScript to an older version of JavaScript for older browsers that may not support newer JavaScript
 
 ## How to Install and Run Just-Post-It
 
