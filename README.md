@@ -68,6 +68,6 @@ Without it, it would be much harder to create this project.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[1]: /imgs/Demo_1.png "Input"
-[2]: /imgs/Demo_2.png "Post it"
-[3]: /imgs/Demo_3.png "Maximum posts"
+[1]: /imgs/Demo-1.png "Input"
+[2]: /imgs/Demo-2.png "Post it"
+[3]: /imgs/Demo-3.png "Maximum posts"
