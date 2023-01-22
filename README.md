@@ -8,18 +8,18 @@ Posts you write will be pinned to the wall so you can see them on the screen.
 
 ### How Just-Post-It is created
 Just-Post-It consists of several parts:
-	- Backend framework written in Python and the django framework
-		- Use SQLite databases to store all posts from the user
-		- Provide a REST API for the fronetend to communicate
-		- Handle basic CRU
-	- Frontend written in JavaScript with React and MUI
-		- Render the Just-Post-It webpage
-		- Interact with user inputs such as text input and mouseclick
-		- Fetch requests to the backend on user's events
-	- webpack
-		- Bundle JavaScript, CSS, and other files into one to improve load times and reduce the number of requests to the server.
-	- babel
-		- Transpile modern JavaScript to an older version of JavaScript for older browsers that may not support newer JavaScript
+	* Backend framework written in Python and the django framework
+		* Use SQLite databases to store all posts from the user
+		* Provide a REST API for the fronetend to communicate
+		* Handle basic CRU
+	* Frontend written in JavaScript with React and MUI
+		* Render the Just-Post-It webpage
+		* Interact with user inputs such as text input and mouseclick
+		* Fetch requests to the backend on user's events
+	* webpack
+		* Bundle JavaScript, CSS, and other files into one to improve load times and reduce the number of requests to the server.
+	* babel
+		* Transpile modern JavaScript to an older version of JavaScript for older browsers that may not support newer JavaScript
 	
 All backend source code can be found in the /api folder.
 All backend source code can be found in the /frontend folder.
